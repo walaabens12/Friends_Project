@@ -17,7 +17,7 @@ export const Friend =
         {
             id: 3,
             name: "Iheb Masmoudi",
-            des: "100% noob",
+            des: "Legend",
             src: "iheb"
         }
         ,
@@ -39,9 +39,9 @@ export const Friend =
         ,
           {
             id: 6,
-            name: "Yassine Marweni ",
-            des: "Rush B",
-            src: "marweni"
+            name: "Mohamed Dhia Nouri",
+            des: "Wabna",
+            src: "nouri"
 
 
         }
