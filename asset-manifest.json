@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Friends_Project/static/css/main.93c43de1.chunk.css",
-    "main.js": "/Friends_Project/static/js/main.3af68aaf.chunk.js",
-    "main.js.map": "/Friends_Project/static/js/main.3af68aaf.chunk.js.map",
+    "main.js": "/Friends_Project/static/js/main.2956bf97.chunk.js",
+    "main.js.map": "/Friends_Project/static/js/main.2956bf97.chunk.js.map",
     "runtime-main.js": "/Friends_Project/static/js/runtime-main.22fc45d6.js",
     "runtime-main.js.map": "/Friends_Project/static/js/runtime-main.22fc45d6.js.map",
     "static/css/2.036b41f9.chunk.css": "/Friends_Project/static/css/2.036b41f9.chunk.css",
     "static/js/2.8eb3436a.chunk.js": "/Friends_Project/static/js/2.8eb3436a.chunk.js",
     "static/js/2.8eb3436a.chunk.js.map": "/Friends_Project/static/js/2.8eb3436a.chunk.js.map",
     "index.html": "/Friends_Project/index.html",
-    "precache-manifest.5ca8d383afea6417a3b9e5634ca0c2b5.js": "/Friends_Project/precache-manifest.5ca8d383afea6417a3b9e5634ca0c2b5.js",
+    "precache-manifest.0b48168e692e985eb675b0bec4e77fe9.js": "/Friends_Project/precache-manifest.0b48168e692e985eb675b0bec4e77fe9.js",
     "service-worker.js": "/Friends_Project/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/Friends_Project/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.93c43de1.chunk.css.map": "/Friends_Project/static/css/main.93c43de1.chunk.css.map",
@@ -21,6 +21,7 @@
     "static/media/mahmoud.jpg": "/Friends_Project/static/media/mahmoud.48256990.jpg",
     "static/media/marweni.jpg": "/Friends_Project/static/media/marweni.125f8761.jpg",
     "static/media/nejib.jpg": "/Friends_Project/static/media/nejib.5821ae09.jpg",
+    "static/media/nouri.jpg": "/Friends_Project/static/media/nouri.58870fa4.jpg",
     "static/media/petit.jpg": "/Friends_Project/static/media/petit.b37cf6d7.jpg",
     "static/media/salem.jpg": "/Friends_Project/static/media/salem.4e610273.jpg",
     "static/media/semah.jpg": "/Friends_Project/static/media/semah.82f9508d.jpg",
@@ -31,6 +32,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.8eb3436a.chunk.js",
     "static/css/main.93c43de1.chunk.css",
-    "static/js/main.3af68aaf.chunk.js"
+    "static/js/main.2956bf97.chunk.js"
   ]
 }
